@@ -24,7 +24,15 @@
 
 <br/>  
 
+```javascript
+import { vijaydharmaraj } from "Awesome";
 
+const languages = ["Python", "Kotlin", "C++", "Swift","PHP"];
+const frameworks = ["Flutter", "Angular", "Django","Flask"];
+const databases = ["PostgreSQL", "CloudFireStore"];
+
+Vijaydharmaraj.skills.push(...languages, ...frameworks, ...databases);
+```
 
 ### Programming Languages  
 <div align="center">   
