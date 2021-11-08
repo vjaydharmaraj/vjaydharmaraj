@@ -28,8 +28,8 @@
 import { vijaydharmaraj } from "Awesome";
 
 const languages = ["Python", "Kotlin", "C++", "Swift","PHP"];
-const frameworks = ["Flutter", "Angular", "Django","Flask"];
-const databases = ["PostgreSQL", "CloudFireStore"];
+const frameworks = ["Flutter", "Bootstrap", "Django","Flask"];
+const databases = ["PostgreSQL", "CloudFireStore","My Sql"];
 
 Vijaydharmaraj.skills.push(...languages, ...frameworks, ...databases);
 ```
