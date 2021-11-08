@@ -7,8 +7,7 @@
 </div>  
   
 
-### <div align="center">I'm Ux/Ui designer.
-I specialize in Web-Development and Mobile-App Development.</div>  
+### <div align="center">I'm Ux/Ui designer.<br/>I specialize in Web-Development and Mobile-App Development.</div>  
   
 
 - 🔭 I'm working on some secret stuff.  
