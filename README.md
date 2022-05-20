@@ -7,7 +7,7 @@
 </div>  
   
 
-### <div align="center">I'm Ux/Ui designer.<br/>I specialize in Web-Development and Mobile-App Development.</div>  
+### <div align="center">I'm Ux/Ui designer.<br/>I specialize in Web-Development and Software Development.</div>  
   
 
 - 🔭 I'm working on some secret stuff.  
@@ -27,7 +27,7 @@
 ```javascript
 import { vijaydharmaraj } from "Awesome";
 
-const languages = ["Python", "Kotlin", "C++", "Swift","PHP"];
+const languages = ["C++", "Python", "Html", "Css","PHP"];
 const frameworks = ["Flutter", "Bootstrap", "Django","Flask"];
 const databases = ["PostgreSQL", "CloudFireStore","My Sql"];
 
@@ -39,10 +39,8 @@ Vijaydharmaraj.skills.push(...languages, ...frameworks, ...databases);
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />   
 </div>  
 
 
