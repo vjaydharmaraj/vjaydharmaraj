@@ -13,13 +13,10 @@
 - 🔭 I'm working on some secret stuff.  
   
 
-- 🌱 I’m currently learning Artificial intelligence and Python  
+- 🌱 I’m currently learning Java  
   
 
-- ❓ Ask me about anything related to Artificial intelligence and related technologies  
-  
-
-- 🤳 I'm AI Enthusiast   
+- 🤳 I'm Tech Enthusiast   
   
 
 <br/>  
@@ -27,39 +24,34 @@
 ```javascript
 import { vijaydharmaraj } from "Awesome";
 
-const languages = ["C++", "Python", "Html", "Css","PHP"];
-const frameworks = ["Flutter", "Bootstrap", "Django","Flask"];
-const databases = ["PostgreSQL", "CloudFireStore","My Sql"];
+const languages = ["C", "C++", "Java","Python","Html","Css"];
+const databases = ["MySql","PostgreSql","Oracle"];
 
-Vijaydharmaraj.skills.push(...languages, ...frameworks, ...databases);
+Vijaydharmaraj.skills.push(...languages, ...databases);
 ```
 
 ### Programming Languages  
-<div align="center">   
+<div align="center"> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="Css" height="50" />
 </div>  
 
-
-
-### Frameworks  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+### Ui Designing Tools  
+<div align="center">   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/balsamiq/balsamiq-ar21.svg" alt="Balsamiq" height="50" />  
 </div>  
-
-
 
 ### Databases  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+<div align="center">   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />  
 </div>  
 
 
