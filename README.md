@@ -1,4 +1,5 @@
-# <div align="center">👋Hello World, I'm Vijay Dharmaraj
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
 
@@ -7,7 +8,7 @@
 </div>  
   
 
-### <div align="center">I'm Ux/Ui designer.<br/>I specialize in Web-Development and Software Development.</div>  
+### <div align="center">I'm Vijay Dharmaraj.<br/>I specialize in Ux/Ui designer,Web-Development and Software Development.</div>  
   
 
 - 🔭 I'm working on some secret stuff.  
